@@ -72,3 +72,4 @@ There is no hard time limit for this coding challenge. However, we believe that 
 Good luck,
 The FreightHub Team
 # freighthub-challenge-front
+# freighthub-front-challenge
